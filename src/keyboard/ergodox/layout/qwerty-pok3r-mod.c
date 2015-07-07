@@ -40,7 +40,7 @@ MEDIAKEY_NEXT_TRACK, _Y,      _U,                   _I,      _O,         _P,    
                   1, _N,      _M,               _comma, _period,    _arrowU,               _shiftR,
          MEDIAKEY_AUDIO_VOL_DOWN,MEDIAKEY_AUDIO_VOL_UP, _arrowL,    _arrowD,               _arrowR,
 _bracketL, _bracketR,
-   _pageU,         0,        0,
+   _pageU,         0,      0,
    _pageD,      _del, _enter ),
 
 
