@@ -32,7 +32,7 @@ _shiftL,     _Z,         _X,      _C,      _V,    _B,                   1,
  _ctrlL,  _guiL,      _altL, _arrowL, _arrowR,
                                                  _backslash_nonUS, _slash,
                                                         0,      0,  _home,
-                                                      _bs,   _del,   _end,
+                                                   _space,    _bs,   _end,
 // right hand
                  _7, _8,      _9,                   _0,   _dash,     _equal,                   _bs,
 MEDIAKEY_NEXT_TRACK, _Y,      _U,                   _I,      _O,         _P,          _pound_nonUS,
@@ -40,8 +40,8 @@ MEDIAKEY_NEXT_TRACK, _Y,      _U,                   _I,      _O,         _P,    
                   1, _N,      _M,               _comma, _period,    _arrowU,               _shiftR,
          MEDIAKEY_AUDIO_VOL_DOWN,MEDIAKEY_AUDIO_VOL_UP, _arrowL,    _arrowD,               _arrowR,
 _bracketL, _bracketR,
-   _pageU,         0,      0,
-   _pageD,    _enter, _space ),
+   _pageU,         0,        0,
+   _pageD,      _del, _enter ),
 
 
 	KB_MATRIX_LAYER(  // layout: layer 1: function and symbol keys
